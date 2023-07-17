@@ -15,7 +15,7 @@
 	"The sun shines brightly in the clear blue sky."                    
 	"I enjoy long walks in the park with my dog."                       
 	"The majestic mountains stand tall in the distance."                
-	"Life is full of surprises."                                        
+	""                                        
 	"Yesterday, I went shopping and bought a new dress."                
 	"The rain pitter-pattered on the rooftop."                          
 	"Time flies when you're having fun."                                
